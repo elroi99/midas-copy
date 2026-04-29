@@ -1,0 +1,3 @@
+- [Reward Programs by Issuer](reward_programs_by_issuer.md) — canonical reward_program data for Amex, AU Bank, HSBC, RBL, SC, HDFC, Axis, ICICI
+- [earn_rate_percent must never be zero](feedback_earn_rate_zero.md) — validator rejects 0; always default to base rate for all 15 spend_categories
+- [CSV Parsing Conventions](csv_parsing_conventions.md) — HSBC dining/grocery 10% override, IndianOil RBL fuel-only handling, Air India merchant skip, Scapia skip rule

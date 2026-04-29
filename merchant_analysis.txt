@@ -1,0 +1,536 @@
+=== AMEX ONLY (48) ===
+  aeropostale_bagline
+  apollo_healing
+  bagline
+  bodycraft
+  bookmyshow
+  epic_on_1
+  epic_on_12
+  epic_on_3
+  epic_on_6
+  euphoria_diamond_jewellery
+  euphoria_gold_coin
+  freshmenu
+  funcity
+  giva_jewellery
+  giva_silver_coin
+  jack_and_jones
+  joy_alukkas_diamond
+  joy_alukkas_jewellery
+  joyalukkas_diamond
+  juicy_couture_bagline
+  just_lil_things
+  malabar_diamond
+  mia_by_tanishq
+  milton
+  mmt_wedding
+  mokobara
+  ode_spa_salon
+  only
+  pcj_diamond_jewellery
+  peora_fashions
+  ratnadeep_retail
+  resonate_router_ups
+  shopy_vision
+  sotc_travel
+  surat_diamonds_main
+  taco_bell
+  tanishq_studded
+  tcns_aurelia
+  tcns_w
+  the_postcard
+  tommy_hilfiger_bagline
+  trends_woman
+  united_colors_of_benetton_bagline
+  zambar
+  zee5_12m_4k
+  zee5_12m_hd
+  zee5_3m_hd
+  zee5_6m_hd
+
+=== ICICI ONLY (32) ===
+  amazon_prime_shopping
+  archies
+  armani_exchange
+  big_basket
+  body_craft
+  book_my_show
+  brooks_brother
+  decathlon_omni
+  decathlon_sports_india
+  dune_london
+  first_cry
+  fresh_menu
+  future_world
+  gas
+  gupta_distributors
+  indian_terrrain
+  jio_mart
+  leaf
+  marriott
+  marriott_spa
+  mother_care
+  o2_spa
+  ottplay
+  ratnadeep_super_market
+  reliance_fashion_factory
+  reliance_footwear
+  resonate
+  scotch_and_soda
+  shell
+  supa
+  trends_women
+  w_for_women
+
+=== HDFC ONLY (71) ===
+  abraham_and_thakore_luxe
+  absolute_barbeque
+  adidas_kids
+  ballyluxe_gift_card
+  bottega_veneta
+  canali_luxe_gift_card
+  charles_tyrwhitt_luxe_gift_card
+  citizen_watches
+  coachluxe_gift_card
+  diesel_luxe_gift_card
+  dpauls_travel_and_tours
+  duneluxe_gift_card
+  ea7_luxe_gift_card
+  easemytrip_generic
+  easybuy
+  emporio_armani_luxe
+  fastrack_smartwatches
+  ferragamo_luxe
+  french_accent
+  giorgio_armani_luxe
+  giva
+  h_by_hamleys_luxe
+  haute_sauce
+  healthians
+  himalaya_wellness
+  home_centre
+  home_stop
+  hugo_bossluxe
+  instafab_plus
+  jimmy_choo_luxe
+  l_occitane
+  la_martina_luxe
+  lunch_box
+  maje_luxe
+  matrix
+  mothercare
+  muji
+  nat_habit
+  nua_woman
+  nykaa_fashion
+  ola_cabs
+  oven_story
+  paul_shark
+  paul_smith
+  pharmeasy
+  pottery_barn
+  pret_a_manger
+  pure_home_living
+  reliance_digital
+  reliance_my_jio_store
+  ritu_kumar
+  rowan
+  sandro
+  satya_paul_accessories
+  shemaroome
+  sunglass_hut
+  superdry_sport
+  taj_j_wellness_circle
+  the_white_crow
+  titan_eye_plus
+  titan_smartwatches
+  tods
+  tory_burch
+  typsy_beauty
+  unipin_bgmi
+  valentino
+  versace
+  villeroy_and_boch
+  vinci_botanicals
+  wendy_s
+  west_elm
+
+=== MAXIMIZE ONLY (60) ===
+  aeropostale
+  apollo
+  apple
+  appyhigh
+  blue_tokai_coffee
+  boat
+  boditive
+  bpcl
+  braingymjr
+  buywithemi
+  celio
+  chunmun
+  cinepolis
+  citizen
+  cleartax
+  cosmopolitan_india
+  dpauls
+  elleven
+  elver
+  epic_on
+  estuary_world
+  glam_studios
+  grt_jewellers
+  hamleys_luxe
+  healthifyme_smart
+  house_of_vaaree
+  hp_pay
+  iocl
+  irctc
+  iserveu_prepaid
+  itc
+  kiehls
+  lccitane
+  lenskartcom
+  lionsgate_play
+  lulu_hypermarket
+  microsoft_xbox
+  modern_bazaar
+  muro_qc
+  nature_s_basket
+  neerus
+  nua_women
+  ovenstory
+  paul_and_shark
+  pcjeweller
+  phone_pe
+  pixel_go
+  pure_home_and_living
+  razorpay_money_flex
+  reliance
+  rentomojo
+  shiv_naresh
+  the_sleep_company
+  third_wave_coffee
+  tinder
+  tribe
+  tripxoxo
+  vaango
+  wendys
+  zoomcar
+
+=== COMMON (2+ portals) (269) ===
+  absolute_barbecues -> [amex, icici, maximize]
+  air_india -> [amex, icici, hdfc, maximize]
+  ajio -> [amex, icici, hdfc, maximize]
+  ajio_luxe -> [hdfc, maximize]
+  aldo -> [icici, hdfc, maximize]
+  aliste -> [icici, hdfc, maximize]
+  allen_solly -> [amex, icici, hdfc, maximize]
+  amazon_fresh -> [icici, hdfc]
+  amazon_pay -> [icici, hdfc, maximize]
+  amazon_prime_membership -> [icici, hdfc, maximize]
+  amazon_shopping -> [icici, hdfc]
+  american_eagle -> [amex, icici, hdfc, maximize]
+  american_tourister -> [icici, hdfc, maximize]
+  apollo_diagnostics -> [hdfc, maximize]
+  apollo_pharmacy -> [icici, hdfc]
+  archies_gallery -> [hdfc, maximize]
+  armani_exchange_luxe -> [hdfc, maximize]
+  asia_seven_express -> [amex, icici]
+  assembly -> [icici, hdfc, maximize]
+  aurelia -> [icici, hdfc, maximize]
+  auric -> [icici, hdfc, maximize]
+  bakingo -> [icici, hdfc, maximize]
+  barbeque_nation -> [amex, icici, hdfc, maximize]
+  bare_anatomy -> [icici, hdfc]
+  baskin_robbins -> [icici, hdfc, maximize]
+  bata -> [icici, hdfc, maximize]
+  bath_and_body_works -> [icici, hdfc, maximize]
+  beer_cafe -> [hdfc, maximize]
+  behrouz_biryani -> [hdfc, maximize]
+  beverly_hills_polo_club -> [icici, hdfc, maximize]
+  beyoung -> [icici, hdfc]
+  biba -> [icici, hdfc]
+  bigbasket -> [amex, hdfc, maximize]
+  bikanervala -> [amex, icici]
+  birkenstock -> [amex, icici]
+  blaupunkt -> [icici, hdfc, maximize]
+  blinkit -> [icici, hdfc, maximize]
+  blissclub -> [hdfc, maximize]
+  bluestone_diamond -> [amex, maximize]
+  bobbi_brown -> [icici, hdfc]
+  brooks_brothers_luxe -> [hdfc, maximize]
+  cafe_coffee_day -> [amex, icici, maximize]
+  cafe_delhi_heights -> [icici, hdfc, maximize]
+  call_it_spring -> [icici, hdfc, maximize]
+  campus -> [icici, hdfc, maximize]
+  campus_sutra -> [icici, hdfc, maximize]
+  cello -> [icici, hdfc, maximize]
+  charles_and_keith -> [icici, hdfc, maximize]
+  chemist_at_play -> [icici, hdfc]
+  chumbak -> [amex, icici, hdfc, maximize]
+  clayco -> [hdfc, maximize]
+  cleartrip -> [icici, hdfc, maximize]
+  cleartrip_hotel -> [icici, hdfc, maximize]
+  coach -> [icici, maximize]
+  colorplus -> [icici, hdfc, maximize]
+  costa_coffee -> [icici, hdfc, maximize]
+  croma -> [amex, icici, hdfc, maximize]
+  crossword -> [amex, hdfc, maximize]
+  cult -> [icici, maximize]
+  daily_objects -> [icici, hdfc, maximize]
+  decathlon -> [amex, hdfc, maximize]
+  discovery_plus -> [icici, hdfc, maximize]
+  district -> [icici, maximize]
+  dominos -> [amex, icici, hdfc, maximize]
+  donatekart -> [amex, icici]
+  duroflex -> [hdfc, maximize]
+  easemytrip -> [amex, icici, maximize]
+  easemytrip_holiday -> [amex, hdfc]
+  easemytrip_hotel -> [amex, hdfc]
+  eatsure -> [hdfc, maximize]
+  estele -> [icici, hdfc]
+  et_prime -> [icici, hdfc, maximize]
+  faasos -> [hdfc, maximize]
+  fab -> [icici, hdfc]
+  fabindia -> [icici, hdfc]
+  fashion_factory -> [hdfc, maximize]
+  fastrack -> [amex, icici, hdfc, maximize]
+  fastrack_bags -> [hdfc, maximize]
+  femmella -> [hdfc, maximize]
+  ferns_n_petals -> [icici, hdfc, maximize]
+  firstcry -> [amex, maximize]
+  fitpass -> [icici, hdfc, maximize]
+  flipkart -> [icici, hdfc]
+  flixbus -> [hdfc, maximize]
+  flower_aura -> [icici, hdfc, maximize]
+  forever21 -> [icici, maximize]
+  forever_new -> [amex, icici, maximize]
+  foxtale -> [icici, hdfc, maximize]
+  freecultr -> [icici, hdfc, maximize]
+  frido -> [hdfc, maximize]
+  future_world_apple_reseller -> [hdfc, maximize]
+  gaana -> [icici, hdfc, maximize]
+  gasluxe -> [hdfc, maximize]
+  goibibo_hotel -> [amex, maximize]
+  hamleys -> [icici, hdfc]
+  hammer -> [icici, hdfc, maximize]
+  health_and_glow -> [amex, icici]
+  healthkart -> [amex, hdfc, maximize]
+  helios -> [amex, icici, hdfc, maximize]
+  hidesign -> [amex, icici, hdfc, maximize]
+  himalaya -> [amex, icici, maximize]
+  hindustan_times_premium -> [icici, hdfc]
+  hoichoi -> [icici, hdfc, maximize]
+  homecentre -> [amex, maximize]
+  hugo_boss -> [icici, maximize]
+  hush_puppies -> [icici, hdfc, maximize]
+  igp -> [icici, hdfc, maximize]
+  ikea -> [amex, icici, hdfc, maximize]
+  indian_terrain -> [amex, maximize]
+  inglot -> [icici, hdfc, maximize]
+  itc_hotels -> [icici, hdfc]
+  ixigo -> [icici, hdfc, maximize]
+  ixigo_hotel -> [hdfc, maximize]
+  jiohotstar -> [hdfc, maximize]
+  jockey -> [icici, hdfc, maximize]
+  kama_ayurveda -> [icici, hdfc]
+  kate_spade -> [icici, hdfc, maximize]
+  kfc -> [amex, icici, hdfc, maximize]
+  kimirica -> [hdfc, maximize]
+  klook -> [hdfc, maximize]
+  lakme_salon -> [amex, icici]
+  lawrence_and_mayo -> [amex, icici]
+  lee -> [amex, icici, maximize]
+  lenskart -> [icici, hdfc]
+  levis -> [amex, icici, hdfc, maximize]
+  liberty -> [hdfc, maximize]
+  lifestyle -> [amex, hdfc]
+  linen_club -> [amex, icici, maximize]
+  little_bite_food -> [amex, icici]
+  live_hindustan -> [icici, hdfc]
+  live_mint -> [icici, hdfc, maximize]
+  louis_philippe -> [amex, icici, hdfc, maximize]
+  luxe -> [icici, hdfc]
+  mac -> [icici, hdfc]
+  machaan -> [icici, hdfc]
+  mainland_china -> [icici, hdfc, maximize]
+  makemytrip -> [icici, hdfc, maximize]
+  makemytrip_holiday -> [icici, hdfc, maximize]
+  makemytrip_hotel -> [icici, hdfc, maximize]
+  mamaearth -> [amex, hdfc, maximize]
+  mango -> [hdfc, maximize]
+  manyavar -> [hdfc, maximize]
+  marks_and_spencer -> [icici, hdfc, maximize]
+  max -> [hdfc, maximize]
+  max_fashion -> [amex, hdfc]
+  mcdonalds -> [amex, icici, maximize]
+  me_n_moms -> [hdfc, maximize]
+  mediwheel -> [icici, hdfc]
+  michael_kors -> [icici, hdfc]
+  miniklub -> [amex, icici, maximize]
+  myntra -> [icici, hdfc]
+  neemans -> [hdfc, maximize]
+  netmeds -> [hdfc, maximize]
+  next -> [hdfc, maximize]
+  nilkamal_homes -> [amex, maximize]
+  nykaa -> [icici, hdfc, maximize]
+  nykaa_man -> [icici, hdfc]
+  oh_calcutta -> [icici, hdfc, maximize]
+  organic_india -> [icici, hdfc, maximize]
+  pantaloons -> [amex, icici, hdfc, maximize]
+  park_avenue -> [icici, hdfc, maximize]
+  parx -> [icici, hdfc, maximize]
+  pepperfry -> [icici, maximize]
+  peter_england -> [amex, icici, hdfc, maximize]
+  philips -> [hdfc, maximize]
+  pigeon -> [hdfc, maximize]
+  pizza_hut -> [amex, icici, hdfc, maximize]
+  planet_fashion -> [amex, icici, maximize]
+  points_for_good -> [icici, hdfc, maximize]
+  polar_bear -> [amex, icici]
+  prestige -> [hdfc, maximize]
+  prestige_smart_kitchen -> [amex, icici]
+  puma -> [amex, hdfc, maximize]
+  punjab_grill -> [amex, icici]
+  pvr -> [amex, icici, hdfc, maximize]
+  rangriti -> [icici, hdfc, maximize]
+  ray_ban -> [amex, icici, maximize]
+  raymond_ready_to_wear -> [hdfc, maximize]
+  rb -> [icici, hdfc, maximize]
+  relaxo -> [icici, hdfc, maximize]
+  reliance_jio_mart -> [amex, hdfc]
+  reliance_smart -> [amex, icici, hdfc]
+  reliance_smart_bazaar -> [icici, hdfc]
+  reliance_smart_point -> [icici, hdfc]
+  reliance_trends -> [amex, icici]
+  reliance_trends_footwear -> [hdfc, maximize]
+  samsonite -> [icici, hdfc, maximize]
+  satya_paul -> [icici, hdfc, maximize]
+  scotch_and_soda_luxe -> [hdfc, maximize]
+  shiva_organic -> [icici, hdfc]
+  shoppers_stop -> [hdfc, maximize]
+  sigree -> [icici, hdfc, maximize]
+  simon_carter -> [amex, icici, hdfc, maximize]
+  simple -> [icici, maximize]
+  skechers -> [amex, icici, hdfc, maximize]
+  skinn -> [hdfc, maximize]
+  skullcandy -> [icici, hdfc, maximize]
+  smile_foundation -> [icici, hdfc, maximize]
+  soch -> [hdfc, maximize]
+  sonyliv -> [hdfc, maximize]
+  speedo -> [amex, icici, hdfc, maximize]
+  spencer_s_retail -> [hdfc, maximize]
+  ssunsu -> [hdfc, maximize]
+  starbucks -> [amex, icici, hdfc, maximize]
+  steam_wallet -> [hdfc, maximize]
+  sterling_holidays -> [amex, maximize]
+  steve_madden -> [icici, hdfc, maximize]
+  street_foods_by_punjab_grill -> [amex, icici]
+  subway -> [amex, icici, hdfc, maximize]
+  sunscoop -> [icici, hdfc]
+  superbottoms -> [hdfc, maximize]
+  superdry -> [icici, hdfc, maximize]
+  sweet_bengal -> [icici, hdfc, maximize]
+  sweet_truth -> [hdfc, maximize]
+  swiggy_money -> [amex, hdfc]
+  taj -> [icici, maximize]
+  taj_experiences -> [amex, hdfc]
+  taneira -> [amex, icici, hdfc]
+  tata_cliq -> [icici, hdfc, maximize]
+  tata_cliq_luxury -> [icici, hdfc, maximize]
+  tattva_spa -> [hdfc, maximize]
+  tego -> [icici, hdfc, maximize]
+  tgif -> [icici, hdfc, maximize]
+  the_body_shop -> [amex, icici, maximize]
+  the_collective -> [amex, maximize]
+  the_good_bowl -> [hdfc, maximize]
+  the_man_company -> [hdfc, maximize]
+  the_raymond_shop -> [icici, hdfc, maximize]
+  tim_hortons -> [hdfc, maximize]
+  timezone -> [icici, hdfc, maximize]
+  titan -> [amex, icici, hdfc, maximize]
+  titan_eye -> [amex, maximize]
+  titan_minimals -> [hdfc, maximize]
+  toscano -> [amex, icici]
+  trends_footwear -> [amex, icici]
+  trends_junior -> [amex, icici]
+  trends_man -> [amex, icici]
+  truefitt_and_hill -> [icici, hdfc, maximize]
+  tumi -> [icici, hdfc]
+  uber -> [icici, hdfc, maximize]
+  unipin -> [hdfc, maximize]
+  unlimited -> [amex, icici]
+  urban_ladder -> [amex, icici]
+  urban_space -> [hdfc, maximize]
+  v_mart -> [amex, icici, hdfc, maximize]
+  valorant -> [icici, hdfc, maximize]
+  van_heusen -> [amex, icici, hdfc, maximize]
+  vero_moda -> [amex, maximize]
+  victoria_s_secret -> [icici, hdfc, maximize]
+  victoria_s_secret_beauty -> [hdfc, maximize]
+  vijay_sales -> [amex, icici, hdfc, maximize]
+  vrott -> [hdfc, maximize]
+  w -> [hdfc, maximize]
+  wakefit -> [amex, icici]
+  wellbeing_nutrition -> [hdfc, maximize]
+  westside -> [amex, icici, hdfc, maximize]
+  wildcraft -> [amex, icici, hdfc, maximize]
+  william_penn -> [icici, hdfc, maximize]
+  woggles -> [icici, maximize]
+  wonderchef -> [amex, icici, hdfc, maximize]
+  woodland -> [icici, hdfc, maximize]
+  wow_chicken -> [icici, hdfc]
+  wow_china -> [icici, hdfc, maximize]
+  wow_momo -> [icici, hdfc]
+  wrangler -> [amex, icici, maximize]
+  yatra -> [amex, icici, hdfc, maximize]
+  youmee -> [amex, icici]
+  zee5 -> [icici, hdfc, maximize]
+  zomato -> [hdfc, maximize]
+
+=== NEAR-DUPLICATES (same root, different key) ===
+  root=ajio: ajio, ajio_luxe
+  root=amazon: amazon_shopping, amazon_pay, amazon_fresh
+  root=amazon_prime: amazon_prime_shopping, amazon_prime_membership
+  root=apollo: apollo_pharmacy, apollo_diagnostics, apollo
+  root=archies: archies, archies_gallery
+  root=armani_exchange: armani_exchange, armani_exchange_luxe
+  root=cleartrip: cleartrip, cleartrip_hotel
+  root=decathlon: decathlon, decathlon_omni, decathlon_sports_india
+  root=easemytrip: easemytrip, easemytrip_holiday, easemytrip_hotel, easemytrip_generic
+  root=fastrack: fastrack, fastrack_bags, fastrack_smartwatches
+  root=hamleys: hamleys, hamleys_luxe
+  root=himalaya: himalaya, himalaya_wellness
+  root=ixigo: ixigo, ixigo_hotel
+  root=makemytrip: makemytrip, makemytrip_holiday, makemytrip_hotel
+  root=nua: nua_woman, nua_women
+  root=nykaa: nykaa, nykaa_man
+  root=reliance: reliance_footwear, reliance_fashion_factory, reliance_smart_bazaar, reliance_smart_point, reliance_digital, reliance
+  root=reliance_trends: reliance_trends, reliance_trends_footwear
+  root=satya_paul: satya_paul, satya_paul_accessories
+  root=scotch_and_soda: scotch_and_soda, scotch_and_soda_luxe
+  root=superdry: superdry, superdry_sport
+  root=titan: titan, titan_minimals, titan_smartwatches
+  root=trends: trends_footwear, trends_junior, trends_man, trends_woman, trends_women
+  root=victoria_s_secret: victoria_s_secret, victoria_s_secret_beauty
+  root=zee5: zee5_12m_4k, zee5_12m_hd, zee5_3m_hd, zee5_6m_hd, zee5
+
+=== CROSS-PORTAL NAMING INCONSISTENCIES ===
+  absolute_barbecues (amex/icici/maximize)  vs  absolute_barbeque (hdfc)
+  bigbasket (amex)  vs  big_basket (icici)
+  firstcry (amex)  vs  first_cry (icici)
+  bookmyshow (amex)  vs  book_my_show (icici)
+  freshmenu (amex)  vs  fresh_menu (icici)
+  bodycraft (amex)  vs  body_craft (icici)
+  indian_terrain (amex)  vs  indian_terrrain (icici) <-- TYPO: 3 r s
+  trends_woman (amex)  vs  trends_women (icici)
+  mothercare (hdfc)  vs  mother_care (icici)
+  homecentre (amex/maximize)  vs  home_centre (hdfc)
+  l_occitane (hdfc)  vs  lccitane (maximize) <-- missing apostrophe
+  wendy_s (hdfc)  vs  wendys (maximize)
+  oven_story (hdfc)  vs  ovenstory (maximize)
+  paul_shark (hdfc)  vs  paul_and_shark (maximize)
+  dpauls_travel_and_tours (hdfc)  vs  dpauls (maximize)
+  nua_woman (hdfc)  vs  nua_women (maximize)
+  resonate_router_ups (amex)  vs  resonate (icici)
+  joy_alukkas_diamond + joy_alukkas_jewellery + joyalukkas_diamond  vs  all on amex -- 3 variants of same jeweller

@@ -1,0 +1,827 @@
+[
+  {
+    "reward_currency": {
+      "code": "american_express_platinum_travel_credit_card",
+      "display_name": "Reward Points",
+      "type": "points"
+    },
+    "valuation_profiles": [
+      {
+        "id": "x1",
+        "rupee_value_per_unit": 1.0,
+        "description": "Best Redemption Value"
+      }
+    ],
+    "default_valuation_profile_id": "x1"
+  },
+  {
+    "reward_currency": {
+      "code": "american_express_membership_rewards_credit_card",
+      "display_name": "Reward Points",
+      "type": "points"
+    },
+    "valuation_profiles": [
+      {
+        "id": "x1",
+        "rupee_value_per_unit": 1.0,
+        "description": "Best Redemption Value"
+      }
+    ],
+    "default_valuation_profile_id": "x1"
+  },
+  {
+    "reward_currency": {
+      "code": "american_express_gold_charge_card",
+      "display_name": "Reward Points",
+      "type": "points"
+    },
+    "valuation_profiles": [
+      {
+        "id": "x1",
+        "rupee_value_per_unit": 1.0,
+        "description": "Best Redemption Value"
+      }
+    ],
+    "default_valuation_profile_id": "x1"
+  },
+  {
+    "reward_currency": {
+      "code": "american_express_platinum_reserve_credit_card",
+      "display_name": "Reward Points",
+      "type": "points"
+    },
+    "valuation_profiles": [
+      {
+        "id": "x1",
+        "rupee_value_per_unit": 1.0,
+        "description": "Best Redemption Value"
+      }
+    ],
+    "default_valuation_profile_id": "x1"
+  },
+  {
+    "reward_currency": {
+      "code": "american_express_smartearn_credit_card",
+      "display_name": "Reward Points",
+      "type": "points"
+    },
+    "valuation_profiles": [
+      {
+        "id": "x1",
+        "rupee_value_per_unit": 1.0,
+        "description": "Best Redemption Value"
+      }
+    ],
+    "default_valuation_profile_id": "x1"
+  },
+  {
+    "reward_currency": {
+      "code": "american_express_platinum_charge_card",
+      "display_name": "Reward Points",
+      "type": "points"
+    },
+    "valuation_profiles": [
+      {
+        "id": "x1",
+        "rupee_value_per_unit": 1.0,
+        "description": "Best Redemption Value"
+      }
+    ],
+    "default_valuation_profile_id": "x1"
+  },
+  {
+    "reward_currency": {
+      "code": "axis_bank_horizon_credit_card",
+      "display_name": "Reward Points",
+      "type": "points"
+    },
+    "valuation_profiles": [
+      {
+        "id": "x1",
+        "rupee_value_per_unit": 1.0,
+        "description": "Best Redemption Value"
+      }
+    ],
+    "default_valuation_profile_id": "x1"
+  },
+  {
+    "reward_currency": {
+      "code": "axis_bank_cashback_credit_card",
+      "display_name": "Reward Points",
+      "type": "points"
+    },
+    "valuation_profiles": [
+      {
+        "id": "x1",
+        "rupee_value_per_unit": 1.0,
+        "description": "Best Redemption Value"
+      }
+    ],
+    "default_valuation_profile_id": "x1"
+  },
+  {
+    "reward_currency": {
+      "code": "flipkart_axis_bank_credit_card",
+      "display_name": "Reward Points",
+      "type": "points"
+    },
+    "valuation_profiles": [
+      {
+        "id": "x1",
+        "rupee_value_per_unit": 1.0,
+        "description": "Best Redemption Value"
+      }
+    ],
+    "default_valuation_profile_id": "x1"
+  },
+  {
+    "reward_currency": {
+      "code": "axis_bank_select_credit_card",
+      "display_name": "Reward Points",
+      "type": "points"
+    },
+    "valuation_profiles": [
+      {
+        "id": "x1",
+        "rupee_value_per_unit": 0.2,
+        "description": "Best Redemption Value"
+      }
+    ],
+    "default_valuation_profile_id": "x1"
+  },
+  {
+    "reward_currency": {
+      "code": "axis_bank_privilege_credit_card",
+      "display_name": "Reward Points",
+      "type": "points"
+    },
+    "valuation_profiles": [
+      {
+        "id": "x1",
+        "rupee_value_per_unit": 0.2,
+        "description": "Best Redemption Value"
+      }
+    ],
+    "default_valuation_profile_id": "x1"
+  },
+  {
+    "reward_currency": {
+      "code": "axis_atlas",
+      "display_name": "Reward Points",
+      "type": "points"
+    },
+    "valuation_profiles": [
+      {
+        "id": "x1",
+        "rupee_value_per_unit": 2.0,
+        "description": "Best Redemption Value"
+      }
+    ],
+    "default_valuation_profile_id": "x1"
+  },
+  {
+    "reward_currency": {
+      "code": "axis_bank_my_zone_credit_card",
+      "display_name": "Reward Points",
+      "type": "points"
+    },
+    "valuation_profiles": [
+      {
+        "id": "x1",
+        "rupee_value_per_unit": 0.2,
+        "description": "Best Redemption Value"
+      }
+    ],
+    "default_valuation_profile_id": "x1"
+  },
+  {
+    "reward_currency": {
+      "code": "axis_bank_neo_credit_card",
+      "display_name": "Reward Points",
+      "type": "points"
+    },
+    "valuation_profiles": [
+      {
+        "id": "x1",
+        "rupee_value_per_unit": 0.2,
+        "description": "Best Redemption Value"
+      }
+    ],
+    "default_valuation_profile_id": "x1"
+  },
+  {
+    "reward_currency": {
+      "code": "axis_magnus",
+      "display_name": "Reward Points",
+      "type": "points"
+    },
+    "valuation_profiles": [
+      {
+        "id": "x1",
+        "rupee_value_per_unit": 1.0,
+        "description": "Best Redemption Value"
+      }
+    ],
+    "default_valuation_profile_id": "x1"
+  },
+  {
+    "reward_currency": {
+      "code": "axis_bank_rewards_credit_card",
+      "display_name": "Reward Points",
+      "type": "points"
+    },
+    "valuation_profiles": [
+      {
+        "id": "x1",
+        "rupee_value_per_unit": 0.2,
+        "description": "Best Redemption Value"
+      }
+    ],
+    "default_valuation_profile_id": "x1"
+  },
+  {
+    "reward_currency": {
+      "code": "hdfc_bank_infinia_credit_card",
+      "display_name": "Reward Points",
+      "type": "points"
+    },
+    "valuation_profiles": [
+      {
+        "id": "x1",
+        "rupee_value_per_unit": 1.0,
+        "description": "Best Redemption Value"
+      }
+    ],
+    "default_valuation_profile_id": "x1"
+  },
+  {
+    "reward_currency": {
+      "code": "hdfc_diners_club_black_metal_edition_credit_card",
+      "display_name": "Reward Points",
+      "type": "points"
+    },
+    "valuation_profiles": [
+      {
+        "id": "x1",
+        "rupee_value_per_unit": 1.0,
+        "description": "Best Redemption Value"
+      }
+    ],
+    "default_valuation_profile_id": "x1"
+  },
+  {
+    "reward_currency": {
+      "code": "hdfc_bank_regalia_gold_credit_card",
+      "display_name": "Reward Points",
+      "type": "points"
+    },
+    "valuation_profiles": [
+      {
+        "id": "x1",
+        "rupee_value_per_unit": 1.0,
+        "description": "Best Redemption Value"
+      }
+    ],
+    "default_valuation_profile_id": "x1"
+  },
+  {
+    "reward_currency": {
+      "code": "hdfc_bank_regalia_credit_card",
+      "display_name": "Reward Points",
+      "type": "points"
+    },
+    "valuation_profiles": [
+      {
+        "id": "x1",
+        "rupee_value_per_unit": 0.5,
+        "description": "Best Redemption Value"
+      }
+    ],
+    "default_valuation_profile_id": "x1"
+  },
+  {
+    "reward_currency": {
+      "code": "hdfc_bank_diners_club_privilege_credit_card",
+      "display_name": "Reward Points",
+      "type": "points"
+    },
+    "valuation_profiles": [
+      {
+        "id": "x1",
+        "rupee_value_per_unit": 0.5,
+        "description": "Best Redemption Value"
+      }
+    ],
+    "default_valuation_profile_id": "x1"
+  },
+  {
+    "reward_currency": {
+      "code": "hdfc_bank_millennia_credit_card",
+      "display_name": "Reward Points",
+      "type": "points"
+    },
+    "valuation_profiles": [
+      {
+        "id": "x1",
+        "rupee_value_per_unit": 1.0,
+        "description": "Best Redemption Value"
+      }
+    ],
+    "default_valuation_profile_id": "x1"
+  },
+  {
+    "reward_currency": {
+      "code": "hdfc_bank_moneyback_plus_credit_card",
+      "display_name": "Reward Points",
+      "type": "points"
+    },
+    "valuation_profiles": [
+      {
+        "id": "x1",
+        "rupee_value_per_unit": 0.25,
+        "description": "Best Redemption Value"
+      }
+    ],
+    "default_valuation_profile_id": "x1"
+  },
+  {
+    "reward_currency": {
+      "code": "swiggy_hdfc_bank_credit_card",
+      "display_name": "Reward Points",
+      "type": "points"
+    },
+    "valuation_profiles": [
+      {
+        "id": "x1",
+        "rupee_value_per_unit": 1.0,
+        "description": "Best Redemption Value"
+      }
+    ],
+    "default_valuation_profile_id": "x1"
+  },
+  {
+    "reward_currency": {
+      "code": "tata_neu_infinity_hdfc_bank_credit_card",
+      "display_name": "Reward Points",
+      "type": "points"
+    },
+    "valuation_profiles": [
+      {
+        "id": "x1",
+        "rupee_value_per_unit": 1.0,
+        "description": "Best Redemption Value"
+      }
+    ],
+    "default_valuation_profile_id": "x1"
+  },
+  {
+    "reward_currency": {
+      "code": "tata_neu_plus_credit_card",
+      "display_name": "Reward Points",
+      "type": "points"
+    },
+    "valuation_profiles": [
+      {
+        "id": "x1",
+        "rupee_value_per_unit": 1.0,
+        "description": "Best Redemption Value"
+      }
+    ],
+    "default_valuation_profile_id": "x1"
+  },
+  {
+    "reward_currency": {
+      "code": "biz_black",
+      "display_name": "Reward Points",
+      "type": "points"
+    },
+    "valuation_profiles": [
+      {
+        "id": "x1",
+        "rupee_value_per_unit": 1.0,
+        "description": "Best Redemption Value"
+      }
+    ],
+    "default_valuation_profile_id": "x1"
+  },
+  {
+    "reward_currency": {
+      "code": "biz_power",
+      "display_name": "Reward Points",
+      "type": "points"
+    },
+    "valuation_profiles": [
+      {
+        "id": "x1",
+        "rupee_value_per_unit": 1.0,
+        "description": "Best Redemption Value"
+      }
+    ],
+    "default_valuation_profile_id": "x1"
+  },
+  {
+    "reward_currency": {
+      "code": "hsbc_travelone_credit_card",
+      "display_name": "Reward Points",
+      "type": "points"
+    },
+    "valuation_profiles": [
+      {
+        "id": "x1",
+        "rupee_value_per_unit": 1.0,
+        "description": "Best Redemption Value"
+      }
+    ],
+    "default_valuation_profile_id": "x1"
+  },
+  {
+    "reward_currency": {
+      "code": "hsbc_visa_platinum_credit_card",
+      "display_name": "Reward Points",
+      "type": "points"
+    },
+    "valuation_profiles": [
+      {
+        "id": "x1",
+        "rupee_value_per_unit": 0.5,
+        "description": "Best Redemption Value"
+      }
+    ],
+    "default_valuation_profile_id": "x1"
+  },
+  {
+    "reward_currency": {
+      "code": "hsbc_live_credit_card",
+      "display_name": "Reward Points",
+      "type": "points"
+    },
+    "valuation_profiles": [
+      {
+        "id": "x1",
+        "rupee_value_per_unit": 1.0,
+        "description": "Best Redemption Value"
+      }
+    ],
+    "default_valuation_profile_id": "x1"
+  },
+  {
+    "reward_currency": {
+      "code": "hsbc_premier_credit_card",
+      "display_name": "Reward Points",
+      "type": "points"
+    },
+    "valuation_profiles": [
+      {
+        "id": "x1",
+        "rupee_value_per_unit": 1.0,
+        "description": "Best Redemption Value"
+      }
+    ],
+    "default_valuation_profile_id": "x1"
+  },
+  {
+    "reward_currency": {
+      "code": "hsbc_rupay_cashback_credit_card",
+      "display_name": "Reward Points",
+      "type": "points"
+    },
+    "valuation_profiles": [
+      {
+        "id": "x1",
+        "rupee_value_per_unit": 1.0,
+        "description": "Best Redemption Value"
+      }
+    ],
+    "default_valuation_profile_id": "x1"
+  },
+  {
+    "reward_currency": {
+      "code": "indianoil_rbl_bank_credit_card",
+      "display_name": "Reward Points",
+      "type": "points"
+    },
+    "valuation_profiles": [
+      {
+        "id": "x1",
+        "rupee_value_per_unit": 0.5,
+        "description": "Best Redemption Value"
+      }
+    ],
+    "default_valuation_profile_id": "x1"
+  },
+  {
+    "reward_currency": {
+      "code": "indianoil_rbl_bank_xtra_credit_card",
+      "display_name": "Reward Points",
+      "type": "points"
+    },
+    "valuation_profiles": [
+      {
+        "id": "x1",
+        "rupee_value_per_unit": 0.5,
+        "description": "Best Redemption Value"
+      }
+    ],
+    "default_valuation_profile_id": "x1"
+  },
+  {
+    "reward_currency": {
+      "code": "air_india_sbi_platinum",
+      "display_name": "Reward Points",
+      "type": "points"
+    },
+    "valuation_profiles": [
+      {
+        "id": "x1",
+        "rupee_value_per_unit": 1.0,
+        "description": "Best Redemption Value"
+      }
+    ],
+    "default_valuation_profile_id": "x1"
+  },
+  {
+    "reward_currency": {
+      "code": "air_india_sbi_signature",
+      "display_name": "Reward Points",
+      "type": "points"
+    },
+    "valuation_profiles": [
+      {
+        "id": "x1",
+        "rupee_value_per_unit": 1.0,
+        "description": "Best Redemption Value"
+      }
+    ],
+    "default_valuation_profile_id": "x1"
+  },
+  {
+    "reward_currency": {
+      "code": "apollo_sbi_card",
+      "display_name": "Reward Points",
+      "type": "points"
+    },
+    "valuation_profiles": [
+      {
+        "id": "x1",
+        "rupee_value_per_unit": 1.0,
+        "description": "Best Redemption Value"
+      }
+    ],
+    "default_valuation_profile_id": "x1"
+  },
+  {
+    "reward_currency": {
+      "code": "bpcl_sbi_card",
+      "display_name": "Reward Points",
+      "type": "points"
+    },
+    "valuation_profiles": [
+      {
+        "id": "x1",
+        "rupee_value_per_unit": 0.25,
+        "description": "Best Redemption Value"
+      }
+    ],
+    "default_valuation_profile_id": "x1"
+  },
+  {
+    "reward_currency": {
+      "code": "etihad_guest_sbi_card",
+      "display_name": "Reward Points",
+      "type": "points"
+    },
+    "valuation_profiles": [
+      {
+        "id": "x1",
+        "rupee_value_per_unit": 1.0,
+        "description": "Best Redemption Value"
+      }
+    ],
+    "default_valuation_profile_id": "x1"
+  },
+  {
+    "reward_currency": {
+      "code": "krisflyer_sbi_card_apex",
+      "display_name": "Reward Points",
+      "type": "points"
+    },
+    "valuation_profiles": [
+      {
+        "id": "x1",
+        "rupee_value_per_unit": 1.0,
+        "description": "Best Redemption Value"
+      }
+    ],
+    "default_valuation_profile_id": "x1"
+  },
+  {
+    "reward_currency": {
+      "code": "pulse_sbi_card",
+      "display_name": "Reward Points",
+      "type": "points"
+    },
+    "valuation_profiles": [
+      {
+        "id": "x1",
+        "rupee_value_per_unit": 0.25,
+        "description": "Best Redemption Value"
+      }
+    ],
+    "default_valuation_profile_id": "x1"
+  },
+  {
+    "reward_currency": {
+      "code": "sbi_card_elite",
+      "display_name": "Reward Points",
+      "type": "points"
+    },
+    "valuation_profiles": [
+      {
+        "id": "x1",
+        "rupee_value_per_unit": 0.25,
+        "description": "Best Redemption Value"
+      }
+    ],
+    "default_valuation_profile_id": "x1"
+  },
+  {
+    "reward_currency": {
+      "code": "sbi_card_prime",
+      "display_name": "Reward Points",
+      "type": "points"
+    },
+    "valuation_profiles": [
+      {
+        "id": "x1",
+        "rupee_value_per_unit": 0.25,
+        "description": "Best Redemption Value"
+      }
+    ],
+    "default_valuation_profile_id": "x1"
+  },
+  {
+    "reward_currency": {
+      "code": "simplyclick_sbi_card_offline",
+      "display_name": "Reward Points",
+      "type": "points"
+    },
+    "valuation_profiles": [
+      {
+        "id": "x1",
+        "rupee_value_per_unit": 0.25,
+        "description": "Best Redemption Value"
+      }
+    ],
+    "default_valuation_profile_id": "x1"
+  },
+  {
+    "reward_currency": {
+      "code": "simplyclick_sbi_card_online",
+      "display_name": "Reward Points",
+      "type": "points"
+    },
+    "valuation_profiles": [
+      {
+        "id": "x1",
+        "rupee_value_per_unit": 0.25,
+        "description": "Best Redemption Value"
+      }
+    ],
+    "default_valuation_profile_id": "x1"
+  },
+  {
+    "reward_currency": {
+      "code": "standard_chartered_ultimate_credit_card",
+      "display_name": "Reward Points",
+      "type": "points"
+    },
+    "valuation_profiles": [
+      {
+        "id": "x1",
+        "rupee_value_per_unit": 1.0,
+        "description": "Best Redemption Value"
+      }
+    ],
+    "default_valuation_profile_id": "x1"
+  },
+  {
+    "reward_currency": {
+      "code": "icici_times_black",
+      "display_name": "Reward Points",
+      "type": "points"
+    },
+    "valuation_profiles": [
+      {
+        "id": "x1",
+        "rupee_value_per_unit": 1.0,
+        "description": "Best Redemption Value"
+      }
+    ],
+    "default_valuation_profile_id": "x1"
+  },
+  {
+    "reward_currency": {
+      "code": "icici_emeralde_private_metal",
+      "display_name": "Reward Points",
+      "type": "points"
+    },
+    "valuation_profiles": [
+      {
+        "id": "x1",
+        "rupee_value_per_unit": 1.0,
+        "description": "Best Redemption Value"
+      }
+    ],
+    "default_valuation_profile_id": "x1"
+  },
+  {
+    "reward_currency": {
+      "code": "icici_emeralde_regular",
+      "display_name": "Reward Points",
+      "type": "points"
+    },
+    "valuation_profiles": [
+      {
+        "id": "x1",
+        "rupee_value_per_unit": 0.2,
+        "description": "Best Redemption Value"
+      }
+    ],
+    "default_valuation_profile_id": "x1"
+  },
+  {
+    "reward_currency": {
+      "code": "icici_sapphiro",
+      "display_name": "Reward Points",
+      "type": "points"
+    },
+    "valuation_profiles": [
+      {
+        "id": "x1",
+        "rupee_value_per_unit": 0.2,
+        "description": "Best Redemption Value"
+      }
+    ],
+    "default_valuation_profile_id": "x1"
+  },
+  {
+    "reward_currency": {
+      "code": "icici_rubyx",
+      "display_name": "Reward Points",
+      "type": "points"
+    },
+    "valuation_profiles": [
+      {
+        "id": "x1",
+        "rupee_value_per_unit": 0.2,
+        "description": "Best Redemption Value"
+      }
+    ],
+    "default_valuation_profile_id": "x1"
+  },
+  {
+    "reward_currency": {
+      "code": "icici_coral",
+      "display_name": "Reward Points",
+      "type": "points"
+    },
+    "valuation_profiles": [
+      {
+        "id": "x1",
+        "rupee_value_per_unit": 0.2,
+        "description": "Best Redemption Value"
+      }
+    ],
+    "default_valuation_profile_id": "x1"
+  },
+  {
+    "reward_currency": {
+      "code": "icici_platinum",
+      "display_name": "Reward Points",
+      "type": "points"
+    },
+    "valuation_profiles": [
+      {
+        "id": "x1",
+        "rupee_value_per_unit": 0.2,
+        "description": "Best Redemption Value"
+      }
+    ],
+    "default_valuation_profile_id": "x1"
+  },
+  {
+    "reward_currency": {
+      "code": "icici_amazon",
+      "display_name": "Reward Points",
+      "type": "points"
+    },
+    "valuation_profiles": [
+      {
+        "id": "x1",
+        "rupee_value_per_unit": 1.0,
+        "description": "Best Redemption Value"
+      }
+    ],
+    "default_valuation_profile_id": "x1"
+  }
+]
